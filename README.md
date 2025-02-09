@@ -1,1 +1,1 @@
-# AICTE-Internship-PotatoLeaf_Detection-project
+potato leaf disease prediction project

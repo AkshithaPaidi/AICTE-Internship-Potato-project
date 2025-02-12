@@ -14,7 +14,7 @@ This project applies *deep learning* and *image analysis* to identify and classi
 
 - Web-based deployment using Streamlit for easy accessibility
 
-##Usage
+## Usage
 
 - 1. Upload a potato leaf image.
 
